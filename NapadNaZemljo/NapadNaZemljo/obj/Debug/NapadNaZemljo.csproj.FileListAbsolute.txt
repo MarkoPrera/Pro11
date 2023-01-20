@@ -1,0 +1,16 @@
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\bin\Debug\NapadNaZemljo.exe.config
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\bin\Debug\NapadNaZemljo.exe
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\bin\Debug\NapadNaZemljo.pdb
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.csproj.AssemblyReference.cache
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.csproj.SuggestedBindingRedirects.cache
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\MainWindow.g.cs
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\App.g.cs
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo_MarkupCompile.cache
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo_MarkupCompile.lref
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\MainWindow.baml
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.g.resources
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.Properties.Resources.resources
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.csproj.GenerateResource.cache
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.csproj.CoreCompileInputs.cache
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.exe
+D:\Pro11\NapadNaZemljo\NapadNaZemljo\obj\Debug\NapadNaZemljo.pdb

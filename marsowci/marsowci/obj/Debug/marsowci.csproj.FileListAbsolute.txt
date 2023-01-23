@@ -1,0 +1,16 @@
+D:\Pro11\marsowci\marsowci\bin\Debug\marsowci.exe.config
+D:\Pro11\marsowci\marsowci\bin\Debug\marsowci.exe
+D:\Pro11\marsowci\marsowci\bin\Debug\marsowci.pdb
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.csproj.AssemblyReference.cache
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.csproj.SuggestedBindingRedirects.cache
+D:\Pro11\marsowci\marsowci\obj\Debug\MainWindow.g.cs
+D:\Pro11\marsowci\marsowci\obj\Debug\App.g.cs
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci_MarkupCompile.cache
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci_MarkupCompile.lref
+D:\Pro11\marsowci\marsowci\obj\Debug\MainWindow.baml
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.g.resources
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.Properties.Resources.resources
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.csproj.GenerateResource.cache
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.csproj.CoreCompileInputs.cache
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.exe
+D:\Pro11\marsowci\marsowci\obj\Debug\marsowci.pdb
